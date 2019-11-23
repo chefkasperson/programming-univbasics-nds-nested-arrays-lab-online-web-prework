@@ -24,8 +24,7 @@ end
 
 def array_literal_matrix
   nested_array = [
-  ENNET_HOUSE.sort
-    ,
+  ENNET_HOUSE.sort,
  ENFIELD_TENNIS_ACADEMY.sort
 ]
     
