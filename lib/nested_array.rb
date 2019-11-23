@@ -24,7 +24,7 @@ end
 
 def array_literal_matrix
   nested_array = [[
-  "Don Gately",
+  En"Don Gately",
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
