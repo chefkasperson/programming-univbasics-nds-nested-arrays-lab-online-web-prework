@@ -24,14 +24,14 @@ end
 
 def array_literal_matrix
   nested_array = [[
-    "Don Gately",
+  "Don Gately",
   "Joelle van Dyne",
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"
     ],
     [
-       "Hal Incandenza",
+  "Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
