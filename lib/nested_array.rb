@@ -24,18 +24,10 @@ end
 
 def array_literal_matrix
   nested_array = [[
-  En"Don Gately",
-  "Joelle van Dyne",
-  "Pat M.",
-  "Kate Gompert",
-  "Bruce Green"
+  ENNET_HOUSE.sort
     ],
     [
-  "Hal Incandenza",
-  "Lyle",
-  "Gerhard Schtitt",
-  "Mario Incandenza",
-  "Michael Pemulis"
+ ENFIELD_TENNIS_ACADEMY.sort
 ]
       ]
     nested_array.sort[0]
